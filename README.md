@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Le Hoang Anh.
 - 📚 I graduated from University of Science - VNUHCM, majoring in Software Engineering.
 - 🧑🏻‍💻 I'm currently working as a Backend Engineer at the Nexpando JSC.
-- 📫 Contact: [email](mailto:lehoanganh.le2001@gmail.com) or [linkedin](https://www.linkedin.com/in/lehoanganh2001/).
-- Gitlab: https://gitlab.com/anhle199
+- 📫 Contact: [email](mailto:lehoanganh.le2001@gmail.com) or [linkedin](https://www.linkedin.com/in/anhle2001/).
